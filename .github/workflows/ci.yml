@@ -44,7 +44,7 @@ jobs:
       - run: rm -R securconfig
       
       # Copy files from repository to remote host
-      - run: ssh gvozde0m_develop@gvozde0m.beget.tech "rm -R $REPO_NAME"
+      - run: ssh gvozde0m_develop@gvozde0m.beget.tech "rm -R $REPO_NAME -f"
       - run: rsync -av -e ssh --exclude '.gitignore' --exclude '.git' --exclude '.github' $PWD gvozde0m_develop@gvozde0m.beget.tech:~
       
       # Composer and doctrine schemas update
