@@ -1,0 +1,38 @@
+.main {
+    width: 800px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+.main-title {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.title {
+    padding-left: 25px;
+}
+
+.text-agreement {
+    text-align: left;
+}
+
+.list-item {
+    margin-bottom: 10px;
+}
+
+@media only screen and (min-width: 360px) and (max-width: 479px) {
+    .main {
+        width: 360px;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 640px) {
+    .main {
+        width: 480px;
+    }
+}
