@@ -1,19 +1,16 @@
 <?php
 
-class UserAgreementController extends BaseController implements UserAgreementControllerInterface {
+/**
+ * @property UserAgreementViewInterface $view
+ */
 
-    private $getRepository;
+class UserAgreementController extends BaseController implements UserAgreementControllerInterface {
     
-    public function __construct(
-        UserAgreementViewInterface $userAgreementView,
-        GlobalVarRepository $getRepository
-    ) {
+    public function __construct(UserAgreementViewInterface $userAgreementView ) {
         $this->view = $userAgreementView;
-        $this->getRepository = $getRepository;
     }
 
-
     public function actionRead() {
-        
+        $this->view->setTemplate('user_agreement', 'html');
     }
 }

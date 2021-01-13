@@ -1,4 +1,4 @@
 <?php
 
-interface UserAgreementViewInterface {
+interface UserAgreementViewInterface extends BaseViewInterface {
 }
