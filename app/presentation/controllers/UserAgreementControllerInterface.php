@@ -2,5 +2,7 @@
 
 interface UserAgreementControllerInterface {
     
-    public function actionRead();
+    public function actionTerms();
+
+    public function actionPolicy();
 }
