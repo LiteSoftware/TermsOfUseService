@@ -10,7 +10,11 @@ class UserAgreementController extends BaseController implements UserAgreementCon
         $this->view = $userAgreementView;
     }
 
-    public function actionRead() {
+    public function actionTerms() {
         $this->view->setTemplate('user_agreement', 'html');
+    }
+
+    public function actionPolicy() {
+        $this->view->setTemplate('private_policy', 'html');
     }
 }

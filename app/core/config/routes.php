@@ -1,5 +1,6 @@
 <?php
 
 return array(
-    'userAgreement/read' => 'userAgreement/read'
+    'userAgreement/terms' => 'userAgreement/terms',
+    'userAgreement/policy' => 'userAgreement/policy'
 );
