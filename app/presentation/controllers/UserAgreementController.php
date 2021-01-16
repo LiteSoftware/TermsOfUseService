@@ -13,11 +13,10 @@ class UserAgreementController extends BaseController implements UserAgreementCon
 
     public function __construct(
         UserAgreementViewInterface $userAgreementView, 
-        HttpHeaderRepositoryInterface $httpHeaderRepository 
+        GlobalVarRepository $requestGet 
     ) {
         $this->view = $userAgreementView;
-        $langHeader = $httpHeaderRepository->getHeader('Accept-Language')->getValue();
-        $this->langText = !empty($langHeader) ? $langHeader : self::DEFAULT_LANG;
+        $this->langText = $requestGet->getString('language', self::DEFAULT_LANG);
     }
 
     public function actionTerms() {
