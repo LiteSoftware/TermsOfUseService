@@ -2,3 +2,4 @@ vendor/
 app/core/config/db_params.php
 composer.lock
 /.phpunit.result.cache
+.idea
