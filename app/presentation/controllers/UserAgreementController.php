@@ -29,11 +29,11 @@ class UserAgreementController extends BaseController implements UserAgreementCon
 
     public function actionTerms()
     {
-        $this->view->setTemplate($this->app . 'user_agreement_' . $this->langText, 'html');
+        $this->view->setTemplate($this->app . 'user_agreement_' . $this->langText, 'html5');
     }
 
     public function actionPolicy()
     {
-        $this->view->setTemplate($this->app . 'private_policy_' . $this->langText, 'html');
+        $this->view->setTemplate($this->app . 'private_policy_' . $this->langText, 'html5');
     }
 }
