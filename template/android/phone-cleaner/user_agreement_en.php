@@ -1,6 +1,6 @@
 <?= $this->content; ?>
 <div class="main">
-    <h3 class="main-title">User agreement for the "AndroidInfo" application for the Android mobile operating system</h3>
+    <h3 class="main-title">User agreement for the "PhoneCleaner" application for the Android mobile operating system</h3>
 
     <div class="text-agreement">
         <h3 class="title">1. GENERAL PROVISIONS</h3>
