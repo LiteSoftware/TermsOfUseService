@@ -320,7 +320,7 @@
 <h2 class="c1" id="h.mih0h15tpjbk"><span class="c8">Definitions</span></h2>
 <p class="c0"><span class="c3"></span></p>
 <p class="c13"><span class="c9">Service</span></p>
-<p class="c1"><span class="c3">Service is the OpenVPN Client mobile application operated by OpenVPN Client.</span></p>
+<p class="c1"><span class="c3">Service is the UserVPN mobile application operated by UserVPN.</span></p>
 <p class="c1"><span class="c9">Personal Data</span></p>
 <p class="c6"><span class="c3">Personal Data means data about a living individual who can be identified from that data (or from that and other information either in our possession or likely to come into our possession).</span>
 </p>
@@ -341,7 +341,7 @@
 <p class="c6"><span class="c3">When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data (&quot;Usage Data&quot;).</span>
 </p>
 <p class="c6"><span class="c3">&#8203;</span></p>
-<p class="c6"><span class="c14">OpenVPN Client uses the collected data for various purposes:</span></p>
+<p class="c6"><span class="c14">UserVPN uses the collected data for various purposes:</span></p>
 <p class="c1"><span class="c3">To provide customer care and support</span></p>
 <p class="c1"><span class="c3">To provide analysis or valuable information so that we can improve the Service</span></p>
 <p class="c1"><span class="c3">To monitor the usage of the Service</span></p>
@@ -351,16 +351,16 @@
 <p class="c0"><span class="c3"></span></p>
 <p class="c6"><span class="c3">Your information, including Personal Data, may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those from your jurisdiction.</span>
 </p>
-<p class="c6"><span class="c3">OpenVPN Client will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</span>
+<p class="c6"><span class="c3">UserVPN will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</span>
 </p>
 <p class="c6"><span class="c3">&#8203;</span></p>
 <h2 class="c1" id="h.ycvvvv1ww6lt"><span class="c8">Disclosure Of Data</span></h2>
 <p class="c0"><span class="c3"></span></p>
 <p class="c1"><span class="c9">Legal Requirements</span></p>
-<p class="c6"><span class="c3">OpenVPN Client may disclose your Personal Data in the good faith belief that such action is necessary to:</span>
+<p class="c6"><span class="c3">UserVPN may disclose your Personal Data in the good faith belief that such action is necessary to:</span>
 </p>
 <p class="c6"><span class="c3">To comply with a legal obligation</span></p>
-<p class="c6"><span class="c3">To protect and defend the rights or property of OpenVPN Client</span></p>
+<p class="c6"><span class="c3">To protect and defend the rights or property of UserVPN</span></p>
 <p class="c6"><span class="c3">To prevent or investigate possible wrongdoing in connection with the Service</span></p>
 <p class="c6"><span class="c3">To protect the personal safety of users of the Service or the public</span></p>
 <p class="c6"><span class="c3">To protect against legal liability</span></p>
@@ -381,12 +381,12 @@
 <p class="c6 c7"><span class="c3"></span></p>
 <h2 class="c6" id="h.t64f1svcn8c5"><span class="c8">Changes to the privacy policy</span></h2>
 <p class="c6 c7"><span class="c3"></span></p>
-<p class="c6"><span class="c3">The OpenVPN Client app may update our privacy policy from time to time. We will communicate any changes by posting a new privacy policy on this page.</span>
+<p class="c6"><span class="c3">The UserVPN app may update our privacy policy from time to time. We will communicate any changes by posting a new privacy policy on this page.</span>
 </p>
 <p class="c0"><span class="c3"></span></p>
 <h2 class="c6" id="h.hv1k9h7bdlwj"><span class="c8">Feedback, final provisions</span></h2>
 <p class="c0"><span class="c3"></span></p>
-<p class="c13"><span class="c3">You can contact the developers of OpenVPN Client regarding privacy policy at <a
+<p class="c13"><span class="c3">You can contact the developers of UserVPN regarding privacy policy at <a
                 class="c5" href="mailto:vpn@srcblog.ru">vpn@srcblog.ru</a>. If you do not agree with this privacy policy, you cannot use the services of this application, in which case you should refrain from using our application and delete it.</span>
 </p></body>
 </html>
