@@ -4,7 +4,7 @@ class ProductionSystemConfigRepository implements SystemConfigRepositoryInterfac
 
     private $systemConfig;
 
-    private const DEFAULT_SERVICE_DIRNAME = '/TermsOfUseService/';
+    private const DEFAULT_SERVICE_DIRNAME = '/';
 
     private const DEFAULT_TEMPLATE_DIRNAME = 'template/';
 
@@ -12,7 +12,7 @@ class ProductionSystemConfigRepository implements SystemConfigRepositoryInterfac
 
     private const DEFAULT_MEMORY_LIMIT = '1024M';
 
-    private const DEFAULT_DISPLAY_ERRORS = 1;
+    private const DEFAULT_DISPLAY_ERRORS = 0;
 
     private const ERROR_LEVEL = -1;
 
@@ -22,7 +22,7 @@ class ProductionSystemConfigRepository implements SystemConfigRepositoryInterfac
 
     private const HTTPS_PROTOCOL = 'https://';
 
-    private const TEST_HOST = 'apis.com';
+    private const TEST_HOST = 'test3.example.com';
 
     public function __construct() {
         $protocol = trim($_SERVER['SERVER_NAME']) == self::TEST_HOST ? self::HTTP_PROTOCOL : self::HTTPS_PROTOCOL;

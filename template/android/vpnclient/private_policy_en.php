@@ -387,6 +387,6 @@
 <h2 class="c6" id="h.hv1k9h7bdlwj"><span class="c8">Feedback, final provisions</span></h2>
 <p class="c0"><span class="c3"></span></p>
 <p class="c13"><span class="c3">You can contact the developers of UserVPN regarding privacy policy at <a
-                class="c5" href="mailto:vpn@srcblog.ru">vpn@srcblog.ru</a>. If you do not agree with this privacy policy, you cannot use the services of this application, in which case you should refrain from using our application and delete it.</span>
+                class="c5" href="mailto:uservpn@udfsoft.com">uservpn@udfsoft.com</a>. If you do not agree with this privacy policy, you cannot use the services of this application, in which case you should refrain from using our application and delete it.</span>
 </p></body>
 </html>
