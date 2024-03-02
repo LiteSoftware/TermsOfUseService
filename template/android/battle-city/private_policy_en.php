@@ -434,7 +434,7 @@
 <p class="c15"><span class="c0"></span></p>
 <p class="c19"><span class="c2">Contact Us</span></p>
 <p class="c5"><span class="c6">If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at </span><span
-            class="c6 c17"><a class="c11" href="mailto:battlecity@srcblog.ru">battlecity@srcblog.ru</a></span><span
+            class="c6 c17"><a class="c11" href="mailto:support@udfsoft.com">support@udfsoft.com</a></span><span
             class="c6">.</span></p>
 <p class="c3"><span class="c0"></span></p></body>
 </html>
