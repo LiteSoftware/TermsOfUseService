@@ -1,6 +1,7 @@
 <html>
 <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style type="text/css">ol {
             margin: 0;
             padding: 0
@@ -10,45 +11,7 @@
             padding: 0
         }
 
-        .c1 {
-            border-right-style: solid;
-            padding-top: 0pt;
-            border-top-width: 0pt;
-            border-right-width: 0pt;
-            padding-left: 0pt;
-            padding-bottom: 0pt;
-            line-height: 1.15;
-            border-left-width: 0pt;
-            border-top-style: solid;
-            border-left-style: solid;
-            border-bottom-width: 0pt;
-            border-bottom-style: solid;
-            orphans: 2;
-            widows: 2;
-            text-align: left;
-            padding-right: 0pt
-        }
-
-        .c6 {
-            border-right-style: solid;
-            padding-top: 0pt;
-            border-top-width: 0pt;
-            border-right-width: 0pt;
-            padding-left: 0pt;
-            padding-bottom: 0pt;
-            line-height: 1.15;
-            border-left-width: 0pt;
-            border-top-style: solid;
-            border-left-style: solid;
-            border-bottom-width: 0pt;
-            border-bottom-style: solid;
-            orphans: 2;
-            widows: 2;
-            text-align: justify;
-            padding-right: 0pt
-        }
-
-        .c5 {
+        .c10 {
             border-right-style: solid;
             padding-top: 0pt;
             border-top-width: 0pt;
@@ -68,22 +31,32 @@
         }
 
         .c3 {
+            padding-top: 0pt;
+            text-indent: 36pt;
+            padding-bottom: 0pt;
+            line-height: 1.15;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        .c7 {
+            -webkit-text-decoration-skip: none;
+            color: #1155cc;
+            font-weight: 400;
+            text-decoration: underline;
+            text-decoration-skip-ink: none;
+            font-size: 12pt;
+            font-family: "Times New Roman"
+        }
+
+        .c1 {
             color: #000000;
             font-weight: 400;
             text-decoration: none;
             vertical-align: baseline;
             font-size: 12pt;
             font-family: "Times New Roman";
-            font-style: normal
-        }
-
-        .c11 {
-            color: #000000;
-            font-weight: 400;
-            text-decoration: none;
-            vertical-align: baseline;
-            font-size: 12pt;
-            font-family: "Arial";
             font-style: normal
         }
 
@@ -93,60 +66,10 @@
             line-height: 1.15;
             orphans: 2;
             widows: 2;
-            text-align: left;
-            height: 11pt
-        }
-
-        .c12 {
-            color: #000000;
-            font-weight: 400;
-            text-decoration: none;
-            vertical-align: baseline;
-            font-size: 11pt;
-            font-family: "Arial";
-            font-style: normal
-        }
-
-        .c9 {
-            color: #000000;
-            font-weight: 700;
-            text-decoration: none;
-            vertical-align: baseline;
-            font-size: 12pt;
-            font-family: "Times New Roman";
-            font-style: normal
-        }
-
-        .c8 {
-            color: #000000;
-            font-weight: 700;
-            text-decoration: none;
-            vertical-align: baseline;
-            font-size: 14pt;
-            font-family: "Times New Roman";
-            font-style: normal
-        }
-
-        .c4 {
-            color: #000000;
-            font-weight: 700;
-            text-decoration: none;
-            vertical-align: baseline;
-            font-size: 18pt;
-            font-family: "Times New Roman";
-            font-style: normal
-        }
-
-        .c13 {
-            padding-top: 0pt;
-            padding-bottom: 0pt;
-            line-height: 1.15;
-            orphans: 2;
-            widows: 2;
             text-align: justify
         }
 
-        .c16 {
+        .c14 {
             padding-top: 0pt;
             padding-bottom: 0pt;
             line-height: 1.15;
@@ -155,36 +78,60 @@
             text-align: left
         }
 
-        .c2 {
-            font-size: 12pt;
-            font-family: "Times New Roman";
+        .c11 {
             color: #07081f;
-            font-weight: 700
+            text-decoration: none;
+            vertical-align: baseline;
+            font-style: normal
         }
 
-        .c17 {
+        .c6 {
+            color: #000000;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-style: normal
+        }
+
+        .c4 {
             font-size: 12pt;
-            font-family: "Times New Roman";
-            font-weight: 400
+            font-weight: 700;
+            font-family: "Times New Roman"
         }
 
-        .c10 {
+        .c2 {
             background-color: #ffffff;
-            padding: 14pt 14pt 72pt 14pt;
+            padding: 14pt 14pt 72pt 14pt
         }
 
-        .c14 {
+        .c12 {
+            font-weight: 400;
+            font-size: 11pt;
+            font-family: "Arial"
+        }
+
+        .c9 {
             font-size: 12pt;
-            font-family: "Times New Roman";
-            font-weight: 700
+            font-weight: 400;
+            font-family: "Times New Roman"
+        }
+
+        .c8 {
+            font-weight: 700;
+            font-size: 18pt;
+            font-family: "Times New Roman"
+        }
+
+        .c13 {
+            color: inherit;
+            text-decoration: inherit
+        }
+
+        .c5 {
+            height: 11pt
         }
 
         .c15 {
             text-indent: 36pt
-        }
-
-        .c7 {
-            height: 11pt
         }
 
         .title {
@@ -305,88 +252,90 @@
             text-align: left
         }</style>
 </head>
-<body class="c10">
-<div><p class="c0"><span class="c12"></span></p></div>
-<h1 class="c5" id="h.93l2wy1w6amc"><span class="c4">Privacy Policy</span></h1>
-<p class="c0 c15"><span class="c3"></span></p>
-<p class="c15 c16"><span class="c2">Last Updated April 30, 2022</span></p>
-<p class="c0 c15"><span class="c3"></span></p>
-<p class="c13 c15"><span class="c3">This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</span>
+<body class="c2 doc-content">
+<div><p class="c5 c14"><span class="c6 c12"></span></p></div>
+<h1 class="c10" id="h.93l2wy1w6amc"><span class="c6 c8">Privacy Policy</span></h1>
+<p class="c3 c5"><span class="c1"></span></p>
+<p class="c3"><span class="c11 c4">Last Updated April 11, 2026</span></p>
+<p class="c3 c5"><span class="c4 c11"></span></p>
+<p class="c0 c15"><span class="c1">This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</span>
 </p>
-<p class="c13 c15 c7"><span class="c3"></span></p>
-<p class="c13 c15"><span class="c17">We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</span>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c1">We use limited data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used here have the same meanings as in our Terms and Conditions.</span>
 </p>
-<p class="c13 c7"><span class="c3"></span></p>
-<h2 class="c1" id="h.mih0h15tpjbk"><span class="c8">Definitions</span></h2>
-<p class="c0"><span class="c3"></span></p>
-<p class="c13"><span class="c9">Service</span></p>
-<p class="c1"><span class="c3">Service is the UserVPN mobile application operated by UserVPN.</span></p>
-<p class="c1"><span class="c9">Personal Data</span></p>
-<p class="c6"><span class="c3">Personal Data means data about a living individual who can be identified from that data (or from that and other information either in our possession or likely to come into our possession).</span>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c4">1. What Data We Collect</span></p>
+<p class="c0"><span class="c1">We collect only the technical data required to operate the service.</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c1">This may include:</span></p>
+<p class="c0"><span class="c1">&bull; IP address (temporarily, for security and abuse prevention)</span></p>
+<p class="c0"><span class="c1">&bull; Device information (such as User-Agent)</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c6 c4">2. What We Do NOT Collect</span></p>
+<p class="c0"><span class="c1">We do not monitor or store your online activity.</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c1">Specifically, we do NOT collect:</span></p>
+<p class="c0"><span class="c1">&bull; Browsing history</span></p>
+<p class="c0"><span class="c1">&bull; DNS queries</span></p>
+<p class="c0"><span class="c1">&bull; Traffic content</span></p>
+<p class="c0"><span class="c1">&bull; Websites you visit</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c4">3. How We Use Data</span></p>
+<p class="c0"><span class="c1">Limited technical data is used only to:</span></p>
+<p class="c0"><span class="c1">&bull; Operate and maintain the service</span></p>
+<p class="c0"><span class="c1">&bull; Prevent abuse and unauthorized access</span></p>
+<p class="c0"><span class="c1">&bull; Ensure stability and performance</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c1">We do not use your data for advertising or profiling.</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c4">4. Data Retention</span></p>
+<p class="c0"><span class="c1">Some connection-related information (such as IP address and connection time) may be processed temporarily to operate the service and prevent abuse.</span>
 </p>
-<p class="c1"><span class="c9">Usage Data</span></p>
-<p class="c6"><span class="c3">Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).</span>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c1">This information is not used to track your activity and is automatically removed or overwritten on a regular basis.</span>
 </p>
-<p class="c1"><span class="c9">Information Collection and Use</span></p>
-<p class="c6"><span class="c3">We collect several different types of information for various purposes to provide and improve our Service to you.</span>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c6 c4">5. Data Sharing</span></p>
+<p class="c0"><span class="c1">We do not sell or rent your data.</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c1">We may disclose limited information only if required by law or necessary to protect the service from abuse.</span>
 </p>
-<p class="c6 c7"><span class="c3"></span></p>
-<h2 class="c1" id="h.vcznkvmyfzut"><span class="c8">Types of Data Collected</span></h2>
-<p class="c0"><span class="c3"></span></p>
-<p class="c1"><span class="c9">Personal Data</span></p>
-<p class="c6"><span class="c3">While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (&quot;Personal Data&quot;).</span>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c4 c6">6. Legal Basis (GDPR)</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c1">We process data based on:</span></p>
+<p class="c0"><span class="c1">&bull; Legitimate interest (security and abuse prevention)</span></p>
+<p class="c0"><span class="c1">&bull; Performance of a contract (providing the service)</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c4">7. Your Rights</span></p>
+<p class="c0"><span class="c1">If you are located in the European Union, you have the right to:</span></p>
+<p class="c0"><span class="c1">&bull; Access your data</span></p>
+<p class="c0"><span class="c1">&bull; Request correction or deletion</span></p>
+<p class="c0"><span class="c1">&bull; Object to processing</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c9">To exercise your rights, contact us at: </span><span class="c7"><a class="c13"
+                                                                                                  href="mailto:uservpn@udfsoft.com">uservpn@udfsoft.com</a></span>
 </p>
-<p class="c6 c7"><span class="c3"></span></p>
-<p class="c6"><span class="c14">Usage Data</span></p>
-<p class="c6"><span class="c3">When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data (&quot;Usage Data&quot;).</span>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c6 c4">8. Security</span></p>
+<p class="c0"><span class="c1">We take reasonable technical and organizational measures to protect your data.</span></p>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c6 c4">9. Links to Other Sites and Third-Party Services</span></p>
+<p class="c0"><span class="c1">Our Service may contain links to third-party websites or services that are not operated by us.</span>
 </p>
-<p class="c6"><span class="c3">&#8203;</span></p>
-<p class="c6"><span class="c14">UserVPN uses the collected data for various purposes:</span></p>
-<p class="c1"><span class="c3">To provide customer care and support</span></p>
-<p class="c1"><span class="c3">To provide analysis or valuable information so that we can improve the Service</span></p>
-<p class="c1"><span class="c3">To monitor the usage of the Service</span></p>
-<p class="c1"><span class="c3">To detect, prevent and address technical issues</span></p>
-<p class="c1 c7"><span class="c3"></span></p>
-<h2 class="c1" id="h.zh45hr88cv3j"><span class="c8">Transfer Of Data</span></h2>
-<p class="c0"><span class="c3"></span></p>
-<p class="c6"><span class="c3">Your information, including Personal Data, may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those from your jurisdiction.</span>
+<p class="c0"><span class="c1">If you click on a third-party link, you will be directed to that third party&#39;s site. We strongly advise you to review the Privacy Policy of every site you visit.</span>
 </p>
-<p class="c6"><span class="c3">UserVPN will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</span>
+<p class="c0"><span class="c1">In addition, our Service may use third-party services such as advertising providers (e.g., Google Ads) which may collect information in accordance with their own privacy policies.</span>
 </p>
-<p class="c6"><span class="c3">&#8203;</span></p>
-<h2 class="c1" id="h.ycvvvv1ww6lt"><span class="c8">Disclosure Of Data</span></h2>
-<p class="c0"><span class="c3"></span></p>
-<p class="c1"><span class="c9">Legal Requirements</span></p>
-<p class="c6"><span class="c3">UserVPN may disclose your Personal Data in the good faith belief that such action is necessary to:</span>
+<p class="c0"><span class="c9">We do not control and are not responsible for the content, privacy policies, or practices of any third-party services.</span>
 </p>
-<p class="c6"><span class="c3">To comply with a legal obligation</span></p>
-<p class="c6"><span class="c3">To protect and defend the rights or property of UserVPN</span></p>
-<p class="c6"><span class="c3">To prevent or investigate possible wrongdoing in connection with the Service</span></p>
-<p class="c6"><span class="c3">To protect the personal safety of users of the Service or the public</span></p>
-<p class="c6"><span class="c3">To protect against legal liability</span></p>
-<p class="c6"><span class="c3">As an European citizen, under GDPR, you have certain individual rights. You can learn more about these guides in the GDPR Guide.</span>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c6 c4">10. Changes</span></p>
+<p class="c0"><span class="c1">We may update this policy from time to time. Updates will be posted on this page.</span>
 </p>
-<p class="c1 c7"><span class="c3"></span></p>
-<h2 class="c1" id="h.zg5wcul8xb9r"><span class="c8">Security of Data</span></h2>
-<p class="c6 c7"><span class="c3"></span></p>
-<p class="c6"><span class="c3">The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</span>
-</p>
-<p class="c6 c7"><span class="c3"></span></p>
-<h2 class="c6" id="h.393rb3gn60bg"><span class="c8">Links to Other Sites</span></h2>
-<p class="c0"><span class="c3"></span></p>
-<p class="c6"><span class="c3">Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party&#39;s site. We strongly advise you to review the Privacy Policy of every site you visit.</span>
-</p>
-<p class="c6"><span class="c3">We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</span>
-</p>
-<p class="c6 c7"><span class="c3"></span></p>
-<h2 class="c6" id="h.t64f1svcn8c5"><span class="c8">Changes to the privacy policy</span></h2>
-<p class="c6 c7"><span class="c3"></span></p>
-<p class="c6"><span class="c3">The UserVPN app may update our privacy policy from time to time. We will communicate any changes by posting a new privacy policy on this page.</span>
-</p>
-<p class="c0"><span class="c3"></span></p>
-<h2 class="c6" id="h.hv1k9h7bdlwj"><span class="c8">Feedback, final provisions</span></h2>
-<p class="c0"><span class="c3"></span></p>
-<p class="c13"><span class="c3">You can contact the developers of UserVPN regarding privacy policy at <a
-                class="c5" href="mailto:vpn@srcblog.ru">vpn@srcblog.ru</a>. If you do not agree with this privacy policy, you cannot use the services of this application, in which case you should refrain from using our application and delete it.</span>
-</p></body>
+<p class="c0 c5"><span class="c1"></span></p>
+<p class="c0"><span class="c4">11. Contact</span></p>
+<p class="c0"><span class="c1">If you have questions, contact us at:</span></p>
+<p class="c0"><span class="c7"><a class="c13" href="mailto:uservpn@udfsoft.com">uservpn@udfsoft.com</a></span></p>
+<p class="c0 c5"><span class="c1"></span></p></body>
 </html>
