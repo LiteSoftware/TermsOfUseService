@@ -314,7 +314,7 @@
 <p class="c0"><span class="c1">&bull; Object to processing</span></p>
 <p class="c0 c5"><span class="c1"></span></p>
 <p class="c0"><span class="c9">To exercise your rights, contact us at: </span><span class="c7"><a class="c13"
-                                                                                                  href="mailto:vpn@udfsoft.com">vpn@udfsoft.com</a></span>
+                                                                                                  href="mailto:uservpn@udfsoft.com">uservpn@udfsoft.com</a></span>
 </p>
 <p class="c0 c5"><span class="c1"></span></p>
 <p class="c0"><span class="c6 c4">8. Security</span></p>
@@ -336,6 +336,6 @@
 <p class="c0 c5"><span class="c1"></span></p>
 <p class="c0"><span class="c4">11. Contact</span></p>
 <p class="c0"><span class="c1">If you have questions, contact us at:</span></p>
-<p class="c0"><span class="c7"><a class="c13" href="mailto:vpn@udfsoft.com">vpn@udfsoft.com</a></span></p>
+<p class="c0"><span class="c7"><a class="c13" href="mailto:uservpn@udfsoft.com">uservpn@udfsoft.com</a></span></p>
 <p class="c0 c5"><span class="c1"></span></p></body>
 </html>
